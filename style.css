@@ -14,7 +14,7 @@
 }
 /* ===== BODY - BACKGROUND IMAGE ===== */
 body{
-    background-image: url("../FOTBAR.jpg");
+    background-image: url("FOTBAR.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
